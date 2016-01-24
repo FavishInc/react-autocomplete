@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "react-autocomplete@github:ejbyne/react-autocomplete",
+      "/Users/colepacak/Sites/equitynet-client"
+    ]
+  ],
+  "_from": "ejbyne/react-autocomplete",
+  "_id": "react-autocomplete@0.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-autocomplete",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/ejbyne/react-autocomplete/master/package.json",
+      "gitUrl": "git://github.com/ejbyne/react-autocomplete.git",
+      "httpsUrl": "git+https://github.com/ejbyne/react-autocomplete.git",
+      "shortcut": "github:ejbyne/react-autocomplete",
+      "ssh": "git@github.com:ejbyne/react-autocomplete.git",
+      "sshUrl": "git+ssh://git@github.com/ejbyne/react-autocomplete.git",
+      "type": "github"
+    },
+    "name": "react-autocomplete",
+    "raw": "react-autocomplete@github:ejbyne/react-autocomplete",
+    "rawSpec": "github:ejbyne/react-autocomplete",
+    "scope": null,
+    "spec": "github:ejbyne/react-autocomplete",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/ejbyne/react-autocomplete.git#6d640102a7daefaf7daa11fcc6ca0c81439d87c9",
+  "_shasum": "64125c6cf0990191d011590a99d5527d736dc014",
+  "_shrinkwrap": null,
+  "_spec": "react-autocomplete@github:ejbyne/react-autocomplete",
+  "_where": "/Users/colepacak/Sites/equitynet-client",
+  "authors": [
+    "Ryan Florence <rpflorence@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/rackt/react-autocomplete/issues"
+  },
+  "dependencies": {
+    "dom-scroll-into-view": "1.0.1"
+  },
+  "description": "Accessible, extensible, Autocomplete for React.js",
+  "directories": {
+    "example": "examples"
+  },
+  "gitHead": "6d640102a7daefaf7daa11fcc6ca0c81439d87c9",
+  "homepage": "https://github.com/rackt/react-autocomplete",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./build/lib/index.js",
+  "name": "react-autocomplete",
+  "optionalDependencies": {},
+  "readme": "React Autocomplete\n==================\n\nAccessible, extensible, Autocomplete for React.js.\n\nDocs coming soon, for now just look at the `propTypes` and examples :)\n\nTrying to settle on the right API, and then focus hard on accessibility,\nthere are a few missing bits right now.\n\nStuff we need help with:\n\n- mobile support verification generally\n- default mobile styles/positioniong (you'll notice the styles are\n  pretty lean, on purpose, apps should style this however they'd like)\n- tests (eventually)\n\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rackt/react-autocomplete.git"
+  },
+  "tags": [
+    "a11y",
+    "autocomplete",
+    "combobox",
+    "react"
+  ],
+  "version": "0.1.4"
+}
